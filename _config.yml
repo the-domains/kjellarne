@@ -1,0 +1,28 @@
+name: KjellArne
+favicon: null
+layout_spectrum: 0.0963523464743048
+typography_spectrum: 0.6799799213185906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2542082481086254
+  lightness: 0.1161533526610583
+  saturation: 0.4780559802893549
+  rhythmicContrast: 0.3048667311668396
+purpose: []
